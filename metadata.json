@@ -1,0 +1,8 @@
+{
+  "name": "Hide That Clock",
+  "description": "Simply hides the clock from the panel.",
+  "uuid": "hideclock@kevinbburns.com",
+  "shell-version": [
+    "45"
+  ]
+}
